@@ -1,5 +1,3 @@
---此编译文件存在问题，待排查
-
 project "GLFW"
 	kind "StaticLib"
 	language "C"
