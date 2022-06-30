@@ -16,7 +16,7 @@ project "GLFW"
 		"src/init.c",
 		"src/input.c",
 		"src/monitor.c",
-		"src/paltform.c",
+		"src/platform.c",
 		"src/vulkan.c",
 		"src/window.c"
 	}
